@@ -442,6 +442,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .work__box {
     display: flex;
+<<<<<<< HEAD
 }
 
 .image__box {
@@ -451,6 +452,11 @@ body:not(.user-is-tabbing) a:focus {
 
 
 
+=======
+    align-items: center;
+}
+
+>>>>>>> d9a8e27 (creating portfolio)
 @media(max-width: 900px) {
     .work__box {
         align-items: initial;
@@ -459,12 +465,20 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .work__box:not(:last-child) {
+<<<<<<< HEAD
     margin-bottom: 3rem;
+=======
+    margin-bottom: 25rem;
+>>>>>>> d9a8e27 (creating portfolio)
 }
 
 @media(max-width: 500px) {
     .work__box:not(:last-child) {
+<<<<<<< HEAD
         margin-bottom: 5rem;
+=======
+        margin-bottom: 20rem;
+>>>>>>> d9a8e27 (creating portfolio)
     }
 }
 
@@ -474,11 +488,15 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .work__text {
+<<<<<<< HEAD
     flex: 0 0 50%;
 }
 
 .education__text {
     font-size: 28px;
+=======
+    flex: 0 0 30%;
+>>>>>>> d9a8e27 (creating portfolio)
 }
 
 .work__list {
@@ -499,6 +517,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .work__image-box {
+<<<<<<< HEAD
     margin-top: 50%;
     float: table;
 }
@@ -513,12 +532,19 @@ body:not(.user-is-tabbing) a:focus {
 .work__image_test {
     height: 5rem;
     max-width: 25rem;
+=======
+    margin-bottom: var(--gutter-normal);
+>>>>>>> d9a8e27 (creating portfolio)
 }
 
 @media(min-width: 901px) {
     .work__image-box {
         flex: 1;
+<<<<<<< HEAD
         margin: 0 0 5% 6rem;
+=======
+        margin: 0 0 0 10rem;
+>>>>>>> d9a8e27 (creating portfolio)
     }
 }
 
@@ -577,7 +603,11 @@ body:not(.user-is-tabbing) a:focus {
 
 @media(min-width: 901px) {
     .about__text {
+<<<<<<< HEAD
         flex: 0 0 45%;
+=======
+        flex: 0 0 35%;
+>>>>>>> d9a8e27 (creating portfolio)
     }
     
     .about__photo-container {
