@@ -1,2 +1,1 @@
-Creating a Portfolio in gitHub repository
-with HTML, CSS and JS
+Creating a Portfolio in gitHub repository with HTML, CSS and Javascript.
